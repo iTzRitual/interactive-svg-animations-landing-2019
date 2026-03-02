@@ -2,6 +2,9 @@
 
 This project is a minimalist landing page for a fictional smart home company called **future is near.** It was developed as a final project for a Technical Computer Science High School.
 
+## Live Demo
+You can see the project live here: https://interactive-svg-animations-landing.vercel.app/ 
+
 ## Key Features
 * **Interactive SVG Animation:** A swinging light bulb that can be turned on/off using a wall switch or a simulated smartphone interface.
 * **Animated Menu:** A dynamic, full-screen navigation menu.
